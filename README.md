@@ -25,3 +25,4 @@ The final element is hosting your webpage on github
 		- Scroll down to github pages
 		- Under Source click the dropdown that says None
 		- Change it to master branch Use the master branch for Github Pages
+		- If you get lost check out the documentation https://pages.github.com/
