@@ -1,6 +1,7 @@
 # HTMLAssignment
 
-Create a web-page about you that:
+Create an index.html file in this repo
+Write HTML to create a web page about you that:
 
 1.  Is written in HTML code using a text editor like Notepad or an IDE mentioned in the videos.  (No Dreamweaver, WordPress if you want credit.)
 
